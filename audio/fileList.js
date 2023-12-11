@@ -17,6 +17,8 @@ callback({
     { name: '荷塘月色-凤凰传奇', type: ['mp3', 'flac'] },
     { name: '月亮之上-凤凰传奇', type: ['mp3', 'flac'] },
     { name: '最炫民族风-凤凰传奇', type: ['mp3', 'flac'] },
-    { name: '自由飞翔-凤凰传奇', type: ['mp3', 'flac'] }
+    { name: '自由飞翔-凤凰传奇', type: ['mp3', 'flac'] },
+    { name: '我从草原来-凤凰传奇', type: ['mp3', 'flac'] },
+    { name: '狼的诱惑-凤凰传奇', type: ['mp3', 'flac'] },
   ]
 })
