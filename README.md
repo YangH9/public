@@ -1,4 +1,7 @@
 # public
 各种公共资源存放仓库
 
-* /public/audio/fileList.js
+* audio
+  * fileList.js
+  * mp3
+  * flac
