@@ -9,5 +9,8 @@
     "commit_push": "git add . & git commit -m [update]自动提交 & git push"
   },
   "author": "yangh9",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-id3": "^0.2.6"
+  }
 }
